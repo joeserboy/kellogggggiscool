@@ -1,6 +1,6 @@
 # kellogggggiscool
-*joel
-*people
-*malachi
-*damn
-*how
+def works(b,a):
+  print (b+sqrt(b*a+4ab))/ba
+works(2,1)
+  
+
